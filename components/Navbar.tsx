@@ -69,8 +69,8 @@ export default function Navbar() {
                         isScrolled ? "text-primary" : "text-white"
                     )}
                 >
-                    <span>Majestic</span>
-                    <span className={cn("font-light", isScrolled ? "text-foreground" : "text-white/80")}>Hotel</span>
+                    <span>Bonté</span>
+                    <span className={cn("font-light", isScrolled ? "text-foreground" : "text-white/80")}>de l'Eternel</span>
                 </Link>
 
                 {/* Navigation */}
