@@ -12,7 +12,7 @@ export default function Hero() {
             <div
                 className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat animate-ken-burns"
                 style={{
-                    backgroundImage: 'url("https://images.unsplash.com/photo-1571896349842-6e53ce41e887?auto=format&fit=crop&w=2000&q=80")',
+                    backgroundImage: 'url("https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=2000&q=80")',
                 }}
             >
                 <div className="absolute inset-0 bg-black/55" />
