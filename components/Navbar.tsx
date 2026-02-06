@@ -70,7 +70,7 @@ export default function Navbar() {
                     )}
                 >
                     <span>Bonté</span>
-                    <span className={cn("font-light", isScrolled ? "text-foreground" : "text-white/80")}>de l'Eternel</span>
+                    <span className={cn("font-light", isScrolled ? "text-foreground" : "text-white/80")}>Eternel</span>
                 </Link>
 
                 {/* Navigation */}
