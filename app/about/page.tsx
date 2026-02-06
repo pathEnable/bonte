@@ -18,7 +18,7 @@ export default function AboutPage() {
                         <Reveal animation="slide-left">
                             <div className="relative h-[400px] lg:h-[600px] rounded-2xl overflow-hidden shadow-2xl">
                                 <Image
-                                    src="https://images.unsplash.com/photo-1571896349842-6e53ce41e887?auto=format&fit=crop&w=2000&q=80"
+                                    src="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=2000&q=80"
                                     alt="Extérieur du Bonté de l'Eternel Hotel"
                                     fill
                                     className="object-cover"
